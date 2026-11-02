@@ -1,19 +1,19 @@
+# Halo, saya Firnas 👋
 
-# 👋 Hey there, I'm Firnas!
+Mahasiswa Sistem Informasi yang lagi belajar bikin web dan analisis sistem.
 
-I'm an Information Systems student who loves learning new things, exploring technology, and figuring out how things work.
+[![GitHub](https://img.shields.io/badge/GitHub-firnasrayyan23--lab-181717?logo=github)](https://github.com/firnasrayyan23-lab)
 
-Glad you're here!
+## Yang lagi dipelajari
+- Analisis usability (Heuristic Evaluation)
+- Dasar web development
 
-## ☁️ A Little About Me
+<details>
+<summary>Klik untuk lihat lebih banyak</summary>
 
-I'm particularly interested in Cloud Computing, Networking, and IT Infrastructure.
+Isi tambahan di sini, misalnya proyek atau kontak.
 
-I enjoy learning how cloud platforms, networks, and servers work together behind the scenes to keep modern technology running.
+</details>
 
-- 🎓 Information Systems Student
-- ☁️ Exploring Cloud Computing
-- 🌐 Learning about Networking
-- 🖥️ Interested in IT Infrastructure
-- 🔐 Curious about Cloud & Network Security
-- 🚀 Always learning, experimenting, and growing
+## Statistik
+![Stats](https://github-readme-stats.vercel.app/api?username=firnasrayyan23-lab&show_icons=true&theme=dark)
